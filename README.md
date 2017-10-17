@@ -7,10 +7,10 @@ Remake of [Callie - A Countdown Slack Bot](https://callie-corgi.herokuapp.com/) 
 ### Built With
 HTML, CSS
 
-##Authors
+## Authors
  - serhiicss : code review 
  - a5eeM : features
  - dianastanciu : headed & footer blocks
 
- ##License
+ ## License
  [MIT] (https://tldrlegal.com/license/mit-license)
