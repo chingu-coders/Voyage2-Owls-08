@@ -4,13 +4,12 @@
 Remake of [Callie - A Countdown Slack Bot](https://callie-corgi.herokuapp.com/) for learning purposes
 
 ## Development
-### Built With
-HTML, CSS
+** Built with: ** HTML, CSS
 
 ## Authors
- - serhiicss : code review 
- - a5eeM : features
- - dianastanciu : headed & footer blocks
+ - [serhiicss] (https://github.com/serhiicss) : code review 
+ - [a5eeM] (https://github.com/a5eeM) : features
+ - [dianastanciu] (https://github.com/dianastanciu) : header & footer blocks
 
  ## License
  [MIT] (https://tldrlegal.com/license/mit-license)
