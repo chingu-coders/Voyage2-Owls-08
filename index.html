@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Welcome to the bot landing page!</title>
+        
+        <!-- Google Font -->
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">  
+        <!-- Font Awesome CDN -->
+        <script src="https://use.fontawesome.com/39ef366251.js"></script>
+        <!-- Bootstrap Core CSS -->
+        <link rel=stylesheet href="css/bootstrap.min.css">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    
+    <body>
+        <!-- HEADER BLOCK BUILT BY DIANA -->
+        <header class="grad">
+            <div class="container">
+                <div class="title-corgi">
+                    <h1>Meet Callie,<br> a countdown bot for Slack.</h1>
+                    <img src="https://callie-corgi.herokuapp.com/img/corgigirl.png" alt="Callie Corgi" class="corgi">
+                </div>
+                <h3>Callie the Calendar Corgi keeps track of events, deadlines, and more for your team with a few simple commands. Arf!</h3>
+                <img src="https://callie-corgi.herokuapp.com/img/callie-screenshot.png" alt="Slack Screenshot" class="screenshot">
+                <a href="https://slack.com/oauth/authorize?scope=incoming-webhook,bot&client_id=54278405042.125508396647" title="Add to slack!" class="slackBtn"><img src="https://platform.slack-edge.com/img/add_to_slack.png" alt="Add to Slack"></a> 
+                
+                <div class="update">
+                    <p><strong>UPDATES</strong>: Callie was last updated on September 23rd, 2017.</p>
+                    <ul>
+                        <li class="s-p">Over the past couple months, Callie became much more popular than her original infrastructure was intended/able to handle. 
+                            This was a tricky problem to solve! Over the past couple weeks, I rewrote most of Callie's setup to use <a href="https://github.com/zerobotlabs/relax" title="Relax">Relax</a>, which should help considerably. 
+                            Over the next week or so, I'll be monitoring reliability/availability and making any further changes necessary, but long story short: 
+                            Callie should be back in business.</li>
+                    </ul>
+                    <p>This is a one-man side project, so I appreciate the folks who have reached out via email to let me know when they've encountered any issues or bugs. 
+                        Please continue to do so, and I'll work to keep Callie as consistent and reliable as possible. Maintaining a slack app for thousands of users is, 
+                        unsurprisingly, a decent amount of work, so if you use Callie and enjoy the experience, please consider making a <a href="https://www.paypal.me/bpgerson/1" title="Make a donation!">small donation</a> to support free software. 
+                        Callie and I appreciate it!</p>
+                </div>
+            </div>
+        </header>
+
+
+      
+              <div class="features">
+            <div class="features-container">
+                <i class="fa fa-check-circle features-icon" aria-hidden="true"></i>
+                <h3>Keep It Simple</h3>
+                <p class="s-p">
+                    Just a few commands gives Callie all she needs to keep you and your team informed of upcoming events, trips, or deadlines.
+                </p>
+            </div>
+            <div class="features-container">
+                <i class="fa fa-calendar features-icon" aria-hidden="true"></i>
+                <h3>Automated Reminders</h3>
+                <p class="s-p">
+                    Let Callie give you weekly or daily updates on the countdown, and update your settings whenever you like.
+                </p>
+            </div>
+            <div class="features-container">
+                <i class="fa fa-heart features-icon" aria-hidden="true"></i>
+                <h3>It's a Cute Dog</h3>
+                <p class="s-p">
+                    That's what we're all here for, really. A cute dog that knows when your stuff is coming up. Right?
+                </p>
+            </div>
+        </div>
+      
+              <!-- FOOTER BLOCK BUILT BY DIANA -->
+        <!-- background -->
+        <div class="f-grad">
+                <!-- container --> 
+                <div class="f-container">
+                    <!-- first child -->
+                    <div class="f-title-container">
+                        <div class="f-title">
+                            <h1 class="h1-s">Other fun things you might do</h1>
+                        </div>
+                    </div>
+
+                    <!-- second child -->
+                    <div class="f-list-container">  
+                        <ol class="f-list">
+                            <li class="h3" id="special"><a href="#">Install Callie</a></li>
+                            <li class="h3"><a href="#">Send an Email</a></li>
+                            <li class="h3"><a href="#">Fork a Repo</a></li>
+                            <li class="h3"><a href="#">Learn 'bout privacy</a></li>
+                            <li class="h3"><a href="#">Donate a dollar<br/>
+                            <span id="lights-on">It'll keep the lights on for Callie. Thanks!</span>
+                            </a></li>
+                        </ol>
+                    </div> 
+                </div>
+            </div>
+      
+    </body>
+</html>
