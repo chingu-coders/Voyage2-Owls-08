@@ -1,6 +1,15 @@
-# owls-team-8
-# remake of https://callie-corgi.herokuapp.com/ for learning purposes
-# code review by serhiicss
-# headed & footer blocks built by dianastanciu 
-# features block built by a5eeM
+# Owls-Team-08
+##Purpose
+Remake of [Callie - A Countdown Slack Bot](https://callie-corgi.herokuapp.com/) for learning purposes
 
+## Development
+### Built With
+HTML, CSS
+
+##Authors
+ - serhiicss : code review 
+ - a5eeM : features
+ - dianastanciu : headed & footer blocks
+
+ ##License
+ [MIT] (https://tldrlegal.com/license/mit-license)
