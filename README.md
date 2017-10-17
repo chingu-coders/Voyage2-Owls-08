@@ -13,4 +13,4 @@ Remake of [Callie - A Countdown Slack Bot](https://callie-corgi.herokuapp.com/) 
 - [dianastanciu](https://github.com/dianastanciu) : header & footer blocks
 
  ## License
- - [MIT](https://tldrlegal.com/license/mit-license)
+[MIT](https://tldrlegal.com/license/mit-license)
