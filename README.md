@@ -1,5 +1,6 @@
 # Owls-Team-08
-##Purpose
+## Purpose
+
 Remake of [Callie - A Countdown Slack Bot](https://callie-corgi.herokuapp.com/) for learning purposes
 
 ## Development
