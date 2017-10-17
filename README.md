@@ -4,7 +4,7 @@
 Remake of [Callie - A Countdown Slack Bot](https://callie-corgi.herokuapp.com/) for learning purposes
 
 ## Development
-** Built with: ** HTML, CSS
+**Built with:** HTML, CSS
 
 ## Authors
  - [serhiicss] (https://github.com/serhiicss) : code review 
